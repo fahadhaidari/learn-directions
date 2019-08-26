@@ -1,0 +1,31 @@
+html, body {
+  font-family: 'Courier New', Courier, monospace;
+}
+button {
+  background: #FF4444;
+  color: #EEEEEE;
+  font-size: 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  outline: none;
+  border: none;
+}
+p {
+  color: white;
+  text-align: center;
+}
+.button-menu-container {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.direction-container {
+  background: #222222;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  color: cyan;
+  width: 400px;
+  height: 70px;
+  border-radius: 20px;
+}
